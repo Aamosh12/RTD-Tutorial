@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   I'm still learning the Read The Docs Tutorial
+   I'm still learning the Read The Docs Tutorial.
 
 Content
 --------
